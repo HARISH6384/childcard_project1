@@ -17,7 +17,7 @@ const Nav = () => {
       <Link id='nav' class="navbar-brand" to="/BOOCAH">BOOCAH</Link>
       <ul    class="navbar-nav me-auto mb-2 mb-lg-0" style={{marginLeft:'25%'}}>
         <li class="nav-item">
-          <Link  id='one' class="nav-link active" aria-current="page" to='/Home'>Home</Link>
+          <Link  id='one' class="nav-link active" aria-current="page" to='/'>Home</Link>
         </li>
         <li class="nav-item">
           <Link class="nav-link" id='one' to="/Blog">Blog</Link>

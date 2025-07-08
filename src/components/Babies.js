@@ -28,7 +28,7 @@ const Babies = () => {
         <hr></hr>
         <div className='blog'>
             <h1  style={{marginTop:'7%',fontFamily:'initial' }}>How to improve venenatis ultrices nulla</h1>
-            <img style={{marginTop:'7%',  }} src={child3}/>
+            <img style={{marginTop:'7%',  }} src={child3} alt='child3'/>
             <p style={{marginTop:'3%' ,fontFamily:'sans-serif'}}>Mi vel morbi tristique adipiscing magna tristique porttitor quis vel elementum amet commodo diam hendrerit odio sit cras vel vel arcu semper tellus sapien morbi sit iaculis amet mauris tellus velit donec ipsum rhoncus fusce in volutpat congue quis pharetra. Donec molestie enim vitae id tempus etiam malesuada consectetur eget aenean purus lacus, nunc ipsum</p>
             <hr></hr>
 
